@@ -1,0 +1,14 @@
+h1{color: #FF8888;font-family: impact;}
+p{color: #d28eff;}
+h2{color:tan;}
+#block{
+    width: 300px;background-color:white	;
+    border: 0.8rem solid;color: bisque;
+    margin:0.5em;padding: 1em;
+}
+#block1{
+    width: 300px;background-color: #99FFFF;}
+#block2{
+    width: 300px;background-color:	lemonchiffon;}
+#block3{
+    width: 300px;background-color:#99FF99;}
